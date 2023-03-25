@@ -18,6 +18,8 @@ profesor para la materia Informatica avanzada 2.
 
 En el videojuego hay que tratar de usar el puntero, el cual se situa a la altura de los ojos del usuario, y lo puede controlar moviendo la cabeza para derribar o explotar los diferentes objetos de la pantalla y que caigan sobre los personajes que estan sobre las plataformas o el suelo.
 
+https://www.youtube.com/watch?v=AE4bfTm6ZZs&ab_channel=LucianoColombo
+![](https://www.youtube.com/watch?v=AE4bfTm6ZZs&ab_channel=LucianoColombo)
 ![](https://i.pinimg.com/originals/3f/5b/5b/3f5b5b09d4f9a0706767a31b53402ef3.png)
 ![](https://i.pinimg.com/originals/b2/70/16/b270163bd46f69c8a96eb232273b6c18.png)
 ![](https://i.pinimg.com/originals/64/9e/bd/649ebd14dc2174063ecf93db3ada390c.png)
